@@ -1,7 +1,7 @@
-Now, I am...
+**Now, I am...**
 * on 18th-Wecode backend-developing course
 
-former
+**former**
 * Tutor
 * Cook
 * Air Traffic Controller
