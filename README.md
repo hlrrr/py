@@ -1,5 +1,5 @@
 Now, I am...
-* on  18th wecode course 
+* on 18th-Wecode backend-developing course
 
 former
 * Tutor
