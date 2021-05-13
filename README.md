@@ -1,5 +1,5 @@
 **Now, I am**
-* on 18th-Wecode backend-developing course
+* backend developer
 
 **intersted in**
 * music
